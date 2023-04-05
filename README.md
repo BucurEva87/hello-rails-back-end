@@ -52,7 +52,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [React application](https://google.com)
+- [React application](https://github.com/BucurEva87/hello-react-front-end.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

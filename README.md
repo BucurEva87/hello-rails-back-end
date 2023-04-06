@@ -109,7 +109,7 @@ You can now go to [this](http://localhost:3000) url and see it in action!
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Provide a random greeting message**
+- [x] **Provide a random greeting message**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
